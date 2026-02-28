@@ -128,6 +128,3 @@ sentinel/
 
 ---
 
-## License
-
-MIT — see `LICENSE`.
