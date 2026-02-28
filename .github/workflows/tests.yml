@@ -24,4 +24,5 @@ jobs:
         run: pip install beautifulsoup4
 
       - name: Run Sentinel test suite
-        run: python tests/test_sentinel.py
+        working-directory: tests
+        run: python test_sentinel.py
